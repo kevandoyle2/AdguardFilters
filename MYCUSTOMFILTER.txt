@@ -1,23 +1,22 @@
 # For videos
-r5---sn-p5qs7n7l.gvt1.com
-redirector.gvt1.com
+*.gvt1.com
 redirector.googlevideo.com
 ads-pd.nbcuni.com
 # Miscellaneous
 rawtelemetry-east.servicebus.windows.net
 rawtelemetry-west.servicebus.windows.net
 onesignal.com
-verizonfios.sc.omtrdc.net
-shutterfly.sc.omtrdc.net
 # Missed ad domains
 serpens.iad-01.braze.com
 p.placed.com
 ads.scorecardresearch.com
 assets.adobedtm.com
 dpm.demdex.net
-thenielsencompany.tt.omtrdc.net
-c.evidon.com
+*.omtrdc.net
+*.evidon.com
 attr.appsflyer.com
+r.ebay.com
+m.ebay.com
 # Missed tracking domains
 app-measurement.com
 reports.crashlytics.com
@@ -26,15 +25,12 @@ app.adjust.com
 beacons.extremereach.io
 tracker.samplicio.us
 api.beaconsinspace.com
-intercom.io
-app-ab27.marketo.com
-app-sjqe.marketo.com
-www.intercom.com
+*intercom.io
+*.marketo.com
 static.polldaddy.com
+ocsp.godaddy.com
 cantorlytics.vsco.co
-in.appcenter.ms
-appcenter.net
-www.appcenter.net
+*.appcenter.ms
 stats.appsflyer.com
 staging.m.twitch.tv
 tracking.feedmob.com
@@ -43,15 +39,14 @@ track.clickhubs.com
 static.intercomassets.com
 wawa.mobproto.com
 uat.wawarewards.com
-2-01-2c3e-003d.cdx.cedexis.net
+*.cedexis.net
 tracking.epicgames.com
 secure-gl.imrworldwide.com
 players.brightcove.net
 apple.comscoreresearch.com
 # Google
 adservice.google.com
-gcdn.2mdn.net
-r1---sn-p5qlsnd6.c.2mdn.net
+*.2mdn.net
 tpc.googlesyndication.com
 s.youtube.com
 mtalk.google.com
@@ -60,14 +55,13 @@ ade.googlesyndication.com
 graph.instagram.com
 graph.facebook.com
 edge-mqtt.facebook.com
-portal.fb.com
-connect.facebook.net
 b-api.facebook.com
-www.facebook.com
 staticxx.facebook.com
 star.c10r.facebook.com
 mqtt.c10r.facebook.com
 lookaside.facebook.com
+portal.fb.com
+connect.facebook.net
 # Soundcloud
 promoted.soundcloud.com
 va.sndcdn.com
