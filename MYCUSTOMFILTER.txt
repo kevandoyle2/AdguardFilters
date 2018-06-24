@@ -1,23 +1,25 @@
-# For videos
-*.gvt1.com
-redirector.googlevideo.com
+# FOR VIDEOS
 ads-pd.nbcuni.com
-# Miscellaneous
+redirector.googlevideo.com
+*.gvt1.com
+# MISCELLANEOUS
 rawtelemetry-east.servicebus.windows.net
 rawtelemetry-west.servicebus.windows.net
-onesignal.com
-# Missed ad domains
+# MISCELLANEOUS AD DOMAINS
 serpens.iad-01.braze.com
 p.placed.com
 ads.scorecardresearch.com
 assets.adobedtm.com
 dpm.demdex.net
-*.omtrdc.net
-*.evidon.com
-attr.appsflyer.com
 r.ebay.com
 m.ebay.com
-# Missed tracking domains
+*.omtrdc.net
+*.evidon.com
+*.appsflyer.com
+*.imrworldwide.com
+*.disqus.com
+# MISCELLANEOUS TRACKING DOMAINS
+onesignal.com
 app-measurement.com
 reports.crashlytics.com
 settings.crashlytics.com
@@ -25,33 +27,30 @@ app.adjust.com
 beacons.extremereach.io
 tracker.samplicio.us
 api.beaconsinspace.com
-*intercom.io
-*.marketo.com
 static.polldaddy.com
 ocsp.godaddy.com
 cantorlytics.vsco.co
-*.appcenter.ms
-stats.appsflyer.com
 staging.m.twitch.tv
 tracking.feedmob.com
 track.dkhry.com
 track.clickhubs.com
+track.pricespider.com
 static.intercomassets.com
 wawa.mobproto.com
 uat.wawarewards.com
-*.cedexis.net
 tracking.epicgames.com
-secure-gl.imrworldwide.com
-players.brightcove.net
-apple.comscoreresearch.com
-# Google
-adservice.google.com
-*.2mdn.net
-tpc.googlesyndication.com
-s.youtube.com
+*.appcenter.ms
+*.intercom.io
+*.marketo.com
+*.addtoany.com
+*.cedexis.net
+*.brightcove.net
+*.brightcove.com
+# GOOGLE
 mtalk.google.com
-ade.googlesyndication.com
-# Facebook
+s.youtube.com
+*.2mdn.net
+# FACEBOOK
 graph.instagram.com
 graph.facebook.com
 edge-mqtt.facebook.com
@@ -60,29 +59,26 @@ staticxx.facebook.com
 star.c10r.facebook.com
 mqtt.c10r.facebook.com
 lookaside.facebook.com
+an.facebook.com
 portal.fb.com
 connect.facebook.net
-# Soundcloud
+# AMAZON
+mads.amazon.com
+# SOUNDCLOUD
 promoted.soundcloud.com
 va.sndcdn.com
 wis.sndcdn.com
-# Amazon
-mads.amazon.com
-# Twitter
+# TWITTER
 syndication.twitter.com
-cdn.syndication.twimg.com
 platform.twitter.com
-# Yahoo (useless)
-www.yahoo.com
-# Spotify
+cdn.syndication.twimg.com
+# LINKEDIN
+wildcard.licdn.com.edgekey.net
+# SPOTIFY
 heads-ak.spotify.com.edgesuite.net
 audio-ak.spotify.com.edgesuite.net
-# Snapchat
-snapchatpd-a.akamaihd.net
+# SNAPCHAT
 app-analytics.snapchat.com
-# Reddit
+# REDDIT
 sendbird.reddit.com
 m.reddit.com
-# Pinterest
-widgets.pinterest.com
-assets.pinterest.com
