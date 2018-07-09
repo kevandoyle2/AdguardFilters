@@ -6,13 +6,17 @@ redirector.googlevideo.com
 rawtelemetry-east.servicebus.windows.net
 rawtelemetry-west.servicebus.windows.net
 # MISCELLANEOUS AD DOMAINS
-serpens.iad-01.braze.com
 p.placed.com
 ads.scorecardresearch.com
 assets.adobedtm.com
-dpm.demdex.net
 r.ebay.com
 m.ebay.com
+*.demdex.com
+*.salesforceliveagent.com
+*.inq.com
+*.braze.com
+*.mailchimp.com
+*.list-manage.com
 *.omtrdc.net
 *.evidon.com
 *.appsflyer.com
@@ -21,14 +25,13 @@ m.ebay.com
 # MISCELLANEOUS TRACKING DOMAINS
 onesignal.com
 app-measurement.com
-reports.crashlytics.com
-settings.crashlytics.com
 app.adjust.com
 beacons.extremereach.io
 tracker.samplicio.us
 api.beaconsinspace.com
 static.polldaddy.com
 ocsp.godaddy.com
+certificates.godaddy.com
 cantorlytics.vsco.co
 staging.m.twitch.tv
 tracking.feedmob.com
@@ -39,8 +42,13 @@ static.intercomassets.com
 wawa.mobproto.com
 uat.wawarewards.com
 tracking.epicgames.com
+intercom.io
+optimonk.com
+apptimize.com
+pushio.com
+*.gigya.com
+*.crashlytics.com
 *.appcenter.ms
-*.intercom.io
 *.marketo.com
 *.addtoany.com
 *.cedexis.net
@@ -48,15 +56,16 @@ tracking.epicgames.com
 *.brightcove.com
 # GOOGLE
 mtalk.google.com
+ade.googlesyndication.com
 s.youtube.com
 *.2mdn.net
 # FACEBOOK
 graph.instagram.com
 graph.facebook.com
 edge-mqtt.facebook.com
-b-api.facebook.com
 staticxx.facebook.com
 star.c10r.facebook.com
+star-z-mini.c10r.facebook.com
 mqtt.c10r.facebook.com
 lookaside.facebook.com
 an.facebook.com
