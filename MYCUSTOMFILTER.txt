@@ -88,6 +88,3 @@ heads-ak.spotify.com.edgesuite.net
 audio-ak.spotify.com.edgesuite.net
 # SNAPCHAT
 app-analytics.snapchat.com
-# REDDIT
-sendbird.reddit.com
-m.reddit.com
